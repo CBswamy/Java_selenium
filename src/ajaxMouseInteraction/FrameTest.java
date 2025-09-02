@@ -18,6 +18,7 @@ public class FrameTest {
 
 //		we can define the frame by index value but it's not a right method to use it.
 		driver.switchTo().frame(driver.findElement(By.cssSelector("iframe.demo-frame")));
+		// checking commits
 		driver.findElement(By.id("draggable")).click();
 		Actions a = new Actions(driver);
 		WebElement source = driver.findElement(By.id("draggable"));
