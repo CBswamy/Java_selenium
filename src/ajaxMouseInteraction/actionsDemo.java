@@ -30,7 +30,7 @@ public class actionsDemo {
 	a.moveToElement(move).contextClick().build().perform();
 	
 	
-//	driver.close();
+	driver.close();
 	}
 
 }
