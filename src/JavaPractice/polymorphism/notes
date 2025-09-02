@@ -1,0 +1,8 @@
+
+Encapsulation
+-----------------
+ wrapping up of data and methods in to a single unit(class)
+ it's like a security 
+ we are not directly accessing methods, only through variable we can access by object.
+ create variable using private only from that class we can access.
+ variables only can be operated through methods

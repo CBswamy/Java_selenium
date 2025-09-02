@@ -1,0 +1,18 @@
+
+inheritance
+
+Aquiring all the properties(variables) & behaviour (methods) from one class to another class
+
+
+Advanges:
+Re-usability 
+Avoid duplication
+
+types:
+------
+1. Single
+2. Multilevel
+3. Hierarchy
+4. Multiple
+
+

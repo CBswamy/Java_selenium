@@ -1,0 +1,4 @@
+
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));  //implicit wait which will add the timeout for each steps
+
+
